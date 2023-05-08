@@ -33,5 +33,6 @@ It's actually, what shall I say, therapeutic!
      ```
      cp Assembly-CSharp.csproj ~/chicken-catcher/Assembly-CSharp.csproj
      rm -rf ~/chicken-catcher/Assets
-     cp -r Assets ~/chicken-catcher/Assets```
+     cp -r Assets ~/chicken-catcher/Assets
+     ```
    - Now click on the project in Unity Hub. That should open Unity Editor. Run the game there.
