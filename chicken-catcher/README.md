@@ -3,6 +3,7 @@
 This one is not a competitive game. It's like a fidget toy. You fidget, but you
 get no points for doing so. You do it because it's calming. In this case, you nudge
 the chicken so it starts bumping around. And then you try to catch it to make it still.
+You got to pin the chicken against a wall so that it has no place to go.
 
 It's actually, what shall I say, therapeutic!
 
@@ -28,8 +29,9 @@ It's actually, what shall I say, therapeutic!
      - Inspector
      - Project/Console (with Project being selected)
      - Assets (actually a sub pane of Project)
-   - Now close the Unity Editor application. Yes, just close it.
+   - Now close the Unity Editor application. Yes, just close it. And then, copy over these things there.
      ```
      cp Assembly-CSharp.csproj ~/chicken-catcher/Assembly-CSharp.csproj
      rm -rf ~/chicken-catcher/Assets
      cp -r Assets ~/chicken-catcher/Assets```
+   - Now click on the project in Unity Hub. That should open Unity Editor. Run the game there.
