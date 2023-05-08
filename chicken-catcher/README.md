@@ -1,8 +1,6 @@
 # The Chicken Cather game
 
-This one is not a competitive game.
-It's like a fidget toy. You fidget, but you get no points for doing so. You do
-it because it's calming.
+This one is not a competitive game. It's like a fidget toy. You fidget, but you get no points for doing so. You do it because it's calming.
 
 In this case, you nudge the chicken so it starts bumping around. And then you
 try to catch it to make it still.
