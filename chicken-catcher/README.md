@@ -29,6 +29,6 @@ It's actually, what shall I say, therapeutic!
      - Project/Console (with Project being selected)
      - Assets (actually a sub pane of Project)
    - Now close the Unity Editor application. Yes, just close it.
-   ```cp Assembly-CSharp.csproj ~/chicken-catcher/Assembly-CSharp.csproj
-      rm -rf ~/chicken-catcher/Assets
-      cp -r Assets ~/chicken-catcher/Assets```
+     ```cp Assembly-CSharp.csproj ~/chicken-catcher/Assembly-CSharp.csproj
+        rm -rf ~/chicken-catcher/Assets
+        cp -r Assets ~/chicken-catcher/Assets```
